@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1368902689 source:d:\thomasan\a0_appl\s00_programming\c++misc\collisions\classball.cpp
+	"ClassBall.hpp"
+	<cmath>
+	<iostream>
+
+1368902513 d:\thomasan\a0_appl\s00_programming\c++misc\collisions\classball.hpp
+	"ClassVector.hpp"
+	<vector>
+
+1368838931 d:\thomasan\a0_appl\s00_programming\c++misc\collisions\classvector.hpp
+
+1368903728 source:d:\thomasan\a0_appl\s00_programming\c++misc\collisions\classenvironment.cpp
+	"ClassEnvironment.hpp"
+	<iostream>
+
+1368903268 d:\thomasan\a0_appl\s00_programming\c++misc\collisions\classenvironment.hpp
+	"ClassBall.hpp"
+	<SFML/Graphics.hpp>
+	<vector>
+
+1368841865 source:d:\thomasan\a0_appl\s00_programming\c++misc\collisions\classvector.cpp
+	"ClassVector.hpp"
+	<cmath>
+
+1368903016 source:d:\thomasan\a0_appl\s00_programming\c++misc\collisions\drivermain.cpp
+	"ClassEnvironment.hpp"
+	<SFML/Graphics.hpp>
+
+1370126862 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classball.cpp
+	"ClassBall.hpp"
+	<cmath>
+	<iostream>
+
+1370126846 d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classball.hpp
+	"ClassVector.hpp"
+	<vector>
+
+1369686780 d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classvector.hpp
+
+1371173969 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classenvironment.cpp
+	"ClassEnvironment.hpp"
+	<iostream>
+	<stdlib.h>
+
+1370211394 d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classenvironment.hpp
+	"ClassBall.hpp"
+	"ClassListsMatrix.hpp"
+	<SFML/Graphics.hpp>
+	<vector>
+
+1370136902 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classvector.cpp
+	"ClassVector.hpp"
+	<cmath>
+
+1371172381 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\drivermain.cpp
+	"ClassEnvironment.hpp"
+	<SFML/Graphics.hpp>
+
+1369499506 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classlinkedlist.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"ClassLinkedList.hpp"
+
+1369251764 d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classlinkedlist.hpp
+	<string>
+
+1369345877 d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classlistsmatrix.hpp
+	"ClassLinkedList.hpp"
+
+1370825498 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classlistsmatrix.cpp
+	"ClassListsMatrix.hpp"
+	<iostream>
+

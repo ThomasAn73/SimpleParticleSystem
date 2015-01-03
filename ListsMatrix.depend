@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1369201624 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classlinkedlist.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"ClassLinkedList.hpp"
+
+1369179972 d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classlinkedlist.hpp
+	<string>
+
+1369200393 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classlistsmatrix.cpp
+	"ClassListsMatrix.hpp"
+
+1369198979 d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\classlistsmatrix.hpp
+	"ClassLinkedList.hpp"
+
+1369201551 source:d:\thomasan\a0_appl\s00_programming\c++misc\thomasparticlesystem\drivertestmatrix.cpp
+	"ClassListsMatrix.hpp"
+	"ClassLinkedList.hpp"
+	<iostream>
+
